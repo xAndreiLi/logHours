@@ -11,6 +11,7 @@ from datetime import datetime, timedelta, date
 
 username = input("Username: ")
 password = input("Password: ")
+dayInput = input("Enter First Date to Log (m/d/YYYY): ")
 
 format = "%m/%d/%Y"
 firstDay = date(2022, 5, 2)
