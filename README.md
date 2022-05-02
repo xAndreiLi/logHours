@@ -3,7 +3,7 @@ ASU TAS tool to log 8 days of shifts across 2 weeks.
 
 Uses Selenium to log in to ASU, request Duo Authentication, and submit shift hours.
 
-Inputs to the script are
+Inputs to the script are  
   ASU ID  
   Password  
   Date of First Monday to be logged  
